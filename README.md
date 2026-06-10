@@ -137,13 +137,3 @@ jupyter notebook
 ```
 
 ---
-
-## 📝 License
-
-This project was developed for educational purposes as part of the Machine Learning course at NTUA.
-
----
-
-<p align="center">
-  <sub>Made with ❤️ at NTUA — ECE Department</sub>
-</p>
